@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d226938.css",
+    "main.js": "/static/js/main.f51f8b2f.js",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/index.html",
+    "main.8d226938.css.map": "/static/css/main.8d226938.css.map",
+    "main.f51f8b2f.js.map": "/static/js/main.f51f8b2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d226938.css",
+    "static/js/main.f51f8b2f.js"
+  ]
+}
